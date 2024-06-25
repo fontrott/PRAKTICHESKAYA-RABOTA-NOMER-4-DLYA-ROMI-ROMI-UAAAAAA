@@ -1,0 +1,20 @@
+C:\Users\Morf\Desktop\ArrayApp\bin\Debug\ArrayApp.exe.config
+C:\Users\Morf\Desktop\ArrayApp\bin\Debug\ArrayApp.exe
+C:\Users\Morf\Desktop\ArrayApp\bin\Debug\ArrayApp.pdb
+C:\Users\Morf\Desktop\ArrayApp\obj\Debug\ArrayApp.csproj.AssemblyReference.cache
+C:\Users\Morf\Desktop\ArrayApp\obj\Debug\ArrayApp.Form1.resources
+C:\Users\Morf\Desktop\ArrayApp\obj\Debug\ArrayApp.Properties.Resources.resources
+C:\Users\Morf\Desktop\ArrayApp\obj\Debug\ArrayApp.csproj.GenerateResource.cache
+C:\Users\Morf\Desktop\ArrayApp\obj\Debug\ArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\Morf\Desktop\ArrayApp\obj\Debug\ArrayApp.exe
+C:\Users\Morf\Desktop\ArrayApp\obj\Debug\ArrayApp.pdb
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR_4FORROMA-main\ArrayApp\bin\Debug\ArrayApp.exe.config
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR_4FORROMA-main\ArrayApp\bin\Debug\ArrayApp.exe
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR_4FORROMA-main\ArrayApp\bin\Debug\ArrayApp.pdb
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR_4FORROMA-main\ArrayApp\obj\Debug\ArrayApp.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR_4FORROMA-main\ArrayApp\obj\Debug\ArrayApp.Form1.resources
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR_4FORROMA-main\ArrayApp\obj\Debug\ArrayApp.Properties.Resources.resources
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR_4FORROMA-main\ArrayApp\obj\Debug\ArrayApp.csproj.GenerateResource.cache
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR_4FORROMA-main\ArrayApp\obj\Debug\ArrayApp.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR_4FORROMA-main\ArrayApp\obj\Debug\ArrayApp.exe
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR_4FORROMA-main\ArrayApp\obj\Debug\ArrayApp.pdb
